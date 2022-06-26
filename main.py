@@ -1,16 +1,13 @@
-# Scroller Demo
-# Kevin McAleer May 2022
+# Scroller Text 
+# Adapted from Kevin McAleer May 2022
 
 from scroller import Scroller
 
 from time import sleep
 
 # create a message to display
-# message = "KEV"
-message = "kev }"
-# message = "@kevsmac"
-# message = "Subscribe!"
-# message = "subs: 6703"
+
+message = "HELLO WORLD"
 # message = "abdefghijklmnopqrstuvwxyz0123456789"
 # message = "? / \ < > ( ) ~ ' | . , "
 
